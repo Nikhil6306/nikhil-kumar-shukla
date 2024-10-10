@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" align="right" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>" alt="coading" width="400">
+<img src=""https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" alt="logo" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil6306&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil6306" /></p>
 
